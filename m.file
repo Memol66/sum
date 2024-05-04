@@ -1,0 +1,9 @@
+% Get input from the user
+number1 = input('Enter the first number: ');
+number2 = input('Enter the second number: ');
+
+% Sum the two numbers
+sum = number1 + number2;
+
+% Print the result
+fprintf('The sum of %d and %d is: %d\n', number1, number2, sum);
