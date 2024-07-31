@@ -1,4 +1,4 @@
-% Get input from the user;0090
+% Get input from the user;0
 number1 = input('Enter the first number: ');
 number2 = input('Enter the second number: ');
 
